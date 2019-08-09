@@ -7,6 +7,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @SpringBootApplication
 //annotation added for swagger
 @EnableSwagger2
+
+
 public class TrackServiceApplication {
 
 
